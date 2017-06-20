@@ -1,3 +1,2 @@
 # perakweb.github.io
-Site Demo https://perakweb.github.io/
-<a href="https://perakweb.github.io/">Site Demo 1</a>
+<a href="https://perakweb.github.io/" target="_blank">Site Demo 1</a>
